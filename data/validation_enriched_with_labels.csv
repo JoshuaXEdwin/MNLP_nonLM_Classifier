@@ -1,0 +1,301 @@
+qid,country_of_origin,country,located_in,part_of_culture,instance_of,heritage_status,label
+Q15786,[],['Q183'],[],[],"['Q476028', 'Q10517054', 'Q847017']",[],cultural representative
+Q268530,[],['Q145'],[],[],['Q18127'],[],cultural exclusive
+Q216153,['Q30'],[],[],[],"['Q202866', 'Q11424']",[],cultural representative
+Q593,"['Q142', 'Q31']",[],[],[],['Q11424'],[],cultural exclusive
+Q192185,[],[],[],[],['Q5'],[],cultural representative
+Q265890,[],['Q39'],['Q69222'],[],"['Q811979', 'Q23413']","['Q12126757', 'Q12127133']",cultural exclusive
+Q305718,[],['Q796'],[],[],['Q2490224'],[],cultural representative
+Q337267,[],['Q96'],['Q1489'],[],"['Q1007870', 'Q64578911', 'Q20860083']",[],cultural exclusive
+Q15,[],[],[],[],"['Q5107', 'Q2221906', 'Q82794']",[],cultural representative
+Q388170,[],[],[],[],['Q223393'],[],cultural representative
+Q11453,[],[],[],[],['Q1914636'],[],cultural agnostic
+Q11436,[],[],[],[],['Q334166'],[],cultural agnostic
+Q583479,[],[],[],[],"['Q167270', 'Q28823']",[],cultural agnostic
+Q91717,[],"['Q29', 'Q45']",[],[],['Q811102'],[],cultural representative
+Q1453,[],[],[],[],['Q5'],[],cultural representative
+Q9570,[],[],[],[],['Q5'],[],cultural representative
+Q46392,[],[],[],[],['Q5'],[],cultural representative
+Q487265,[],[],[],[],"['Q477298', 'Q620591', 'Q7075402']",[],cultural representative
+Q25314,[],[],[],[],['Q713623'],[],cultural agnostic
+Q1107,['Q17'],[],[],[],"['Q201658', 'Q122985379']",[],cultural representative
+Q27585,[],['Q30'],['Q60'],[],"['Q1641122', 'Q1331793', 'Q186165', 'Q4830453', 'Q6881511', 'Q4182287', 'Q783794']",[],cultural exclusive
+Q192150,[],[],[],[],['Q40050'],[],cultural representative
+Q618238,['Q38'],['Q38'],[],[],"['Q167270', 'Q40050']",[],cultural representative
+Q207241,[],[],[],[],"['Q56055944', 'Q11862829']",[],cultural agnostic
+Q17045537,[],[],[],[],"['Q112231559', 'Q7777573']",[],cultural exclusive
+Q42973,[],[],[],[],"['Q28640', 'Q11488158', 'Q12737077', 'Q20827480']",[],cultural agnostic
+Q3151019,[],[],[],[],['Q28640'],[],cultural agnostic
+Q45418,"['Q1028', 'Q262']",[],[],[],['Q10675206'],[],cultural agnostic
+Q1792450,[],[],[],[],"['Q28640', 'Q12737077']",[],cultural agnostic
+Q11629,[],[],[],[],"['Q1799072', 'Q56055944', 'Q47728']",[],cultural agnostic
+Q7066,[],[],[],[],"['Q49447', 'Q2915955', 'Q5303685']",[],cultural agnostic
+Q552300,['Q161885'],[],[],[],"['Q1123037', 'Q788460', 'Q571', 'Q105543609']",[],cultural exclusive
+Q31444638,[],['Q39'],"['Q7102', 'Q12121']",[],"['Q55488', 'Q1339195', 'Q12819564']",[],cultural exclusive
+Q890297,['Q211'],"['Q191', 'Q211', 'Q37']",[],[],[],[],cultural representative
+Q6658,[],[],[],[],['Q107357104'],[],cultural representative
+Q807725,[],['Q183'],['Q557698'],[],"['Q820477', 'Q166118']",['Q26086651'],cultural exclusive
+Q353936,[],['Q39'],[],[],['Q740752'],[],cultural exclusive
+Q66705,[],['Q39'],['Q5682949'],[],"['Q532', 'Q685309', 'Q123705', 'Q15042037']",[],cultural exclusive
+Q811389,[],['Q183'],['Q163966'],[],"['Q207694', 'Q166118', 'Q1200701', 'Q2668072']",['Q811165'],cultural representative
+Q812609,['Q183'],[],[],[],['Q746549'],[],cultural representative
+Q815611,[],['Q38'],['Q490'],[],"['Q105763925', 'Q166118', 'Q380829']",[],cultural exclusive
+Q11442,[],[],[],[],"['Q334166', 'Q109734237']",[],cultural agnostic
+Q5173,[],[],[],[],['Q713623'],[],cultural agnostic
+Q489,[],[],[],[],['Q5'],[],cultural representative
+Q49759,[],[],[],[],[],[],cultural agnostic
+Q3641631,[],[],[],[],"['Q28972120', 'Q12684', 'Q4442611']",[],cultural representative
+Q157906,[],['Q30'],[],[],"['Q1787375', 'Q561068', 'Q63241860']",[],cultural exclusive
+Q549322,[],[],[],[],['Q28640'],[],cultural representative
+Q1132695,['Q668'],[],[],[],['Q28823'],[],cultural representative
+Q65997,[],[],[],[],"['Q4164871', 'Q5737899', 'Q480319']",[],cultural representative
+Q5119,[],[],[],[],[],[],cultural agnostic
+Q584540,[],[],[],[],"['Q480319', 'Q1781513']",[],cultural agnostic
+Q180449,[],[],[],[],[],[],cultural representative
+Q410,[],[],[],[],['Q5'],[],cultural representative
+Q18240,[],[],[],[],['Q2355817'],[],cultural agnostic
+Q568286,[],[],[],[],['Q223393'],[],cultural exclusive
+Q154996,[],['Q183'],"['Q158095', 'Q64']",[],"['Q751876', 'Q1686006', 'Q33506']",['Q1516079'],cultural representative
+Q251672,[],['Q142'],['Q270211'],[],['Q33506'],"['Q10387684', 'Q10387575']",cultural exclusive
+Q45982,[],['Q902'],[],[],"['Q17376093', 'Q12973014']",[],cultural exclusive
+Q1604035,['Q974'],[],[],[],['Q215380'],[],cultural exclusive
+Q222344,[],[],[],[],"['Q4220920', 'Q480319', 'Q12737077']",[],cultural agnostic
+Q118865,[],[],[],[],"['Q66715801', 'Q12737077', 'Q4164871']",[],cultural agnostic
+Q265418,[],['Q183'],[],[],['Q18127'],[],cultural exclusive
+Q11955,[],['Q29'],[],[],"['Q476028', 'Q847017']",[],cultural exclusive
+Q280015,[],['Q30'],[],[],['Q12973014'],[],cultural exclusive
+Q245068,[],[],[],[],"['Q12737077', 'Q28640']",[],cultural agnostic
+Q27773,[],[],[],[],"['Q16521', 'Q2095']",[],cultural agnostic
+Q233591,[],[],[],[],[],[],cultural agnostic
+Q379282,[],[],[],[],['Q4894405'],[],cultural agnostic
+Q36834,[],[],[],[],"['Q66715801', 'Q12737077']",[],cultural agnostic
+Q158852,[],[],[],[],"['Q66715801', 'Q28640', 'Q4164871']",[],cultural agnostic
+Q376596,[],[],[],[],"['Q223642', 'Q2445904']",[],cultural agnostic
+Q134426,[],[],[],[],['Q20087698'],[],cultural agnostic
+Q506002,[],[],[],[],['Q11460'],[],cultural representative
+Q172349,[],[],[],[],['Q206615'],[],cultural agnostic
+Q1142035,['Q30'],['Q30'],[],[],"['Q63241860', 'Q59152282', 'Q166142', 'Q841645', 'Q620615']",[],cultural representative
+Q597600,[],['Q241'],[],[],['Q327333'],[],cultural exclusive
+Q7367,[],[],[],[],['Q16521'],[],cultural agnostic
+Q8690,[],['Q148'],[],[],"['Q10931', 'Q13418847', 'Q119328980', 'Q5193493']",[],cultural representative
+Q247979,[],[],[],[],"['Q51041800', 'Q895526']",[],cultural representative
+Q5203792,[],[],[],[],['Q5'],[],cultural exclusive
+Q11639,[],[],[],[],"['Q45971958', 'Q47728', 'Q349']",[],cultural agnostic
+Q765,[],[],[],[],['Q5'],[],cultural representative
+Q15647884,[],[],[],[],['Q5'],[],cultural representative
+Q850794,"['Q668', 'Q902']",[],[],[],[],[],cultural exclusive
+Q430,[],[],[],[],"['Q16521', 'Q713623']",[],cultural agnostic
+Q3290343,[],[],[],[],['Q5'],[],cultural exclusive
+Q130857,[],[],[],[],"['Q66715801', 'Q12737077']",[],cultural agnostic
+Q2722359,[],[],[],[],"['Q234460', 'Q116658403']",[],cultural exclusive
+Q386854,[],[],[],[],"['Q66715801', 'Q12737077']",[],cultural agnostic
+Q15964121,[],['Q39'],['Q14566'],[],"['Q55488', 'Q1339195', 'Q12819564']",[],cultural exclusive
+Q1350189,[],[],[],[],['Q28640'],[],cultural agnostic
+Q367660,[],[],[],[],['Q45594'],[],cultural representative
+Q31444654,[],['Q39'],"['Q4225', 'Q12121']",[],"['Q55488', 'Q1339195', 'Q12819564']",[],cultural exclusive
+Q1706696,[],[],[],[],['Q11795121'],[],cultural agnostic
+Q9465,[],[],[],[],"['Q22811234', 'Q11862829']",[],cultural agnostic
+Q1371394,[],[],[],[],['Q201658'],[],cultural agnostic
+Q188907,[],[],[],[],[],[],cultural agnostic
+Q46706,[],[],[],[],['Q5'],[],cultural representative
+Q387284,[],[],[],[],"['Q26971562', 'Q20087698']",[],cultural representative
+Q24649,[],[],[],[],['Q10541491'],[],cultural representative
+Q38066,[],[],[],[],"['Q2198855', 'Q2915955']",[],cultural agnostic
+Q658371,[],[],[],[],['Q28640'],[],cultural agnostic
+Q693,[],[],[],[],['Q223393'],[],cultural agnostic
+Q699,[],[],[],[],['Q223393'],[],cultural agnostic
+Q9764,['Q29'],[],[],[],"['Q188451', 'Q107357104']",[],cultural representative
+Q62449,"['Q408', 'Q664']",[],[],[],['Q40050'],[],cultural representative
+Q36192,[],[],[],[],"['Q483394', 'Q11862829']",[],cultural agnostic
+Q1968,[],[],[],[],"['Q60147807', 'Q1344963', 'Q349', 'Q43229']",[],cultural agnostic
+Q3102,[],[],[],[],['Q5'],[],cultural exclusive
+Q84629,[],[],[],[],['Q5'],[],cultural exclusive
+Q6534,[],['Q142'],[],[],"['Q13418847', 'Q10931']",[],cultural representative
+Q764,[],[],[],[],['Q16521'],[],cultural agnostic
+Q169325,[],['Q30'],[],[],"['Q63241860', 'Q59152282', 'Q166142']",[],cultural representative
+Q618710,[],[],[],[],['Q28823'],[],cultural agnostic
+Q3204,[],['Q39'],[],[],"['Q13219666', 'Q18608583']",[],cultural representative
+Q764233,[],[],[],[],[],[],cultural representative
+Q3335,[],[],[],[],['Q5'],[],cultural representative
+Q1255562,[],[],[],[],['Q968159'],[],cultural representative
+Q172964,[],[],[],[],['Q1781513'],[],cultural agnostic
+Q14924,[],[],[],[],[],[],cultural agnostic
+Q627325,[],[],[],[],['Q28640'],[],cultural agnostic
+Q45594,[],[],[],[],[],[],cultural agnostic
+Q6663,"['Q183', 'Q30']",[],[],[],"['Q19861951', 'Q749316', 'Q746549']",[],cultural representative
+Q655556,[],[],[],[],['Q32880'],[],cultural representative
+Q23565,[],"['Q55304', 'Q713750', 'Q183']",[],[],"['Q1802587', 'Q11396960']",[],cultural exclusive
+Q51677,[],[],[],[],"['Q63187384', 'Q4164871', 'Q124467322']",[],cultural representative
+Q578269,[],['Q145'],[],[],"['Q2500378', 'Q15711797', 'Q327333']",[],cultural exclusive
+Q65707,[],[],[],[],['Q5'],[],cultural representative
+Q59243,[],['Q884'],[],[],"['Q778575', 'Q891723', 'Q786820']",[],cultural representative
+Q132137,[],[],[],"['Q66049360', 'Q928904']",['Q116474095'],[],cultural representative
+Q8538,[],['Q16'],[],[],"['Q4830453', 'Q1107679']",[],cultural exclusive
+Q22865,[],['Q183'],[],[],"['Q1418640', 'Q41773366']",[],cultural exclusive
+Q643996,[],[],[],[],['Q571'],[],cultural agnostic
+Q58968,[],[],[],[],"['Q28640', 'Q12737077']",[],cultural agnostic
+Q3298,[],[],[],[],"['Q18608583', 'Q1478437']",[],cultural representative
+Q580340,[],[],[],[],[],[],cultural representative
+Q400,[],[],[],[],['Q5'],[],cultural exclusive
+Q161439,[],[],[],[],"['Q268592', 'Q2142903', 'Q2467478']",[],cultural agnostic
+Q10940,[],[],[],[],['Q11460'],[],cultural agnostic
+Q224644,[],[],[],[],['Q5'],[],cultural representative
+Q1294605,['Q43287'],[],[],[],"['Q968159', 'Q32880']",[],cultural representative
+Q84405,[],[],[],[],['Q5'],[],cultural representative
+Q43416,[],[],[],[],['Q5'],[],cultural representative
+Q80866,[],[],[],[],[],[],cultural representative
+Q2890234,['Q17'],[],[],[],['Q11795121'],[],cultural exclusive
+Q6418545,[],[],[],[],['Q28972120'],[],cultural exclusive
+Q693461,[],[],[],[],['Q10675206'],[],cultural agnostic
+Q489774,[],['Q884'],[],[],"['Q4830453', 'Q200764', 'Q6881511']",[],cultural exclusive
+Q12494,"['Q426025', 'Q38']",['Q142'],[],[],['Q2095'],[],cultural representative
+Q284465,[],[],[],[],['Q116658403'],[],cultural representative
+Q17563,[],[],[],[],['Q7748'],[],cultural exclusive
+Q3086695,['Q16'],[],[],[],['Q215380'],[],cultural exclusive
+Q493858,[],[],[],[],['Q571'],[],cultural agnostic
+Q3257761,['Q16'],[],[],[],['Q19464263'],[],cultural exclusive
+Q1133078,[],[],[],[],['Q16335296'],[],cultural agnostic
+Q84,[],"['Q2277', 'Q110888', 'Q105092', 'Q105313', 'Q179876', 'Q161885', 'Q174193', 'Q145']","['Q105313', 'Q179876', 'Q21', 'Q1137312', 'Q23306']",[],"['Q200250', 'Q1066984', 'Q515', 'Q208511', 'Q174844', 'Q51929311', 'Q108178728', 'Q2221906']",[],cultural representative
+Q182357,[],[],[],[],"['Q223393', 'Q621993']",[],cultural agnostic
+Q48221,[],[],[],[],"['Q209928', 'Q1826286', 'Q1192063']",[],cultural representative
+Q8274,['Q17'],['Q17'],[],[],"['Q26971562', 'Q20087698', 'Q627436']",[],cultural representative
+Q131165,[],[],[],[],[],[],cultural agnostic
+Q8362,[],[],[],[],['Q483394'],[],cultural representative
+Q3281,[],[],[],[],['Q5'],[],cultural exclusive
+Q11417,[],[],[],[],"['Q56055944', 'Q31629']",[],cultural agnostic
+Q98714302,[],[],[],[],"['Q114962596', 'Q28640']",[],cultural agnostic
+Q162875,[],[],[],[],[],[],cultural agnostic
+Q257153,[],['Q858'],['Q3766'],[],"['Q811979', 'Q162875']",[],cultural exclusive
+Q76574,[],[],[],[],[],[],cultural representative
+Q2321,[],['Q159'],[],[],['Q847017'],[],cultural exclusive
+Q203827,[],[],[],[],['Q107357104'],[],cultural representative
+Q2185917,[],['Q750'],[],[],['Q1826286'],[],cultural exclusive
+Q873,[],[],[],[],['Q5'],[],cultural representative
+Q3333382,[],[],[],[],[],[],cultural agnostic
+Q344299,[],['Q43'],[],[],['Q740752'],[],cultural exclusive
+Q5592,[],[],[],[],['Q5'],[],cultural representative
+Q6836765,[],[],[],[],['Q5'],[],cultural exclusive
+Q220011,[],[],[],[],['Q5'],[],cultural exclusive
+Q835,[],[],[],[],['Q5'],[],cultural representative
+Q1750272,[],[],[],[],[],[],cultural agnostic
+Q674067,[],[],[],[],"['Q28640', 'Q12737077']",[],cultural agnostic
+Q1628649,[],['Q801'],[],[],"['Q1115221', 'Q189819']",[],cultural exclusive
+Q460039,[],[],[],[],"['Q12973014', 'Q26213387']",[],cultural agnostic
+Q687,[],[],[],[],['Q5'],[],cultural representative
+Q429088,[],[],[],[],[],[],cultural agnostic
+Q23402,[],['Q142'],['Q259463'],[],"['Q207694', 'Q17431399', 'Q11396960']",[],cultural representative
+Q2743,['Q46'],[],[],[],"['Q188451', 'Q7777573', 'Q112248470']",[],cultural agnostic
+Q229724,[],[],[],[],['Q5'],[],cultural representative
+Q616753,[],[],[],[],['Q32880'],[],cultural representative
+Q479102,[],['Q36'],[],[],['Q868557'],[],cultural exclusive
+Q56000,[],[],[],[],"['Q2915955', 'Q49447']",[],cultural agnostic
+Q194285,[],['Q30'],[],[],['Q107655869'],[],cultural exclusive
+Q25648,[],['Q30'],[],[],['Q220505'],[],cultural representative
+Q264238,[],[],[],[],"['Q6055843', 'Q21114848', 'Q10383930']",[],cultural agnostic
+Q265169,[],['Q30'],[],[],['Q18127'],[],cultural exclusive
+Q518390,[],[],[],[],['Q371174'],[],cultural agnostic
+Q1377546,[],[],[],[],['Q201658'],[],cultural representative
+Q216929,['Q30'],[],[],[],['Q202866'],[],cultural representative
+Q2425502,[],[],[],[],"['Q15839299', 'Q112231559']",[],cultural exclusive
+Q1344,['Q46'],[],[],[],"['Q188451', 'Q7777573', 'Q112248470']",[],cultural representative
+Q1772945,['Q38'],['Q38'],[],[],['Q7777573'],[],cultural exclusive
+Q470137,[],[],[],[],"['Q26971562', 'Q20087698']",[],cultural representative
+Q43091,[],[],[],[],[],[],cultural agnostic
+Q27207,[],[],[],[],"['Q16521', 'Q1040689']",[],cultural agnostic
+Q29536,[],[],[],[],"['Q49447', 'Q110401222', 'Q49773', 'Q16334295']",[],cultural representative
+Q182370,[],[],[],[],['Q3516833'],[],cultural agnostic
+Q130898,[],['Q96'],[],[],['Q1007870'],[],cultural representative
+Q7845,[],[],[],[],[],[],cultural representative
+Q557,[],[],[],[],['Q5'],[],cultural representative
+Q272,[],[],[],[],['Q5'],[],cultural representative
+Q84809,[],[],[],[],['Q5'],[],cultural exclusive
+Q23407,[],[],[],[],['Q22811234'],[],cultural agnostic
+Q551835,[],[],[],[],['Q28640'],[],cultural agnostic
+Q486748,[],[],[],[],"['Q66715801', 'Q12737077', 'Q4164871']",[],cultural agnostic
+Q7194764,[],[],[],[],['Q385378'],[],cultural agnostic
+Q2095595,[],['Q16'],['Q1904'],[],['Q375336'],[],cultural exclusive
+Q12024,[],[],[],[],['Q16521'],[],cultural agnostic
+Q127552,[],['Q30'],[],[],"['Q1107679', 'Q1762059', 'Q4830453']",[],cultural representative
+Q200751,[],[],[],[],['Q3516833'],[],cultural agnostic
+Q756,[],[],[],[],['Q16521'],[],cultural agnostic
+Q3307548,[],[],[],[],"['Q100663018', 'Q15711870', 'Q123126876']",[],cultural representative
+Q19546,[],['Q237'],[],[],"['Q4164871', 'Q21114371', 'Q17279032', 'Q599151']",[],cultural representative
+Q27114292,[],[],[],[],['Q132364'],[],cultural agnostic
+Q30461,[],[],[],[],"['Q4164871', 'Q294414']",[],cultural agnostic
+Q38817,[],['Q1246'],[],[],['Q220505'],[],cultural exclusive
+Q10892,[],[],[],[],"['Q16521', 'Q2612572', 'Q58051350']",[],cultural agnostic
+Q12516,[],[],[],[],['Q111972893'],[],cultural agnostic
+Q434,[],[],[],[],['Q16521'],[],cultural agnostic
+Q41800,[],[],[],[],['Q5'],[],cultural exclusive
+Q4692,[],[],[],[],"['Q968159', 'Q2198855']",[],cultural representative
+Q11707,[],[],[],[],[],[],cultural agnostic
+Q66854,[],['Q39'],['Q65246908'],[],"['Q532', 'Q70208', 'Q19730508', 'Q123705']",[],cultural exclusive
+Q383845,[],[],[],[],['Q107357104'],[],cultural exclusive
+Q66768,[],['Q39'],['Q19843360'],[],"['Q685309', 'Q532', 'Q123705']",[],cultural exclusive
+Q18702,[],[],[],[],[],[],cultural exclusive
+Q54829,[],['Q29'],[],[],"['Q4830453', 'Q270791', 'Q1331793', 'Q15265344']",[],cultural exclusive
+Q172582,[],['Q668'],[],[],['Q378427'],[],cultural exclusive
+Q1509703,[],['Q142'],[],[],"['Q209495', 'Q2221906']",[],cultural exclusive
+Q11122366,[],[],[],[],"['Q1493054', 'Q131207', 'Q201676', 'Q385378']",[],cultural agnostic
+Q25814,[],[],[],[],['Q16521'],[],cultural agnostic
+Q237338,[],[],[],[],['Q28468127'],[],cultural representative
+Q145234,[],['Q17'],[],[],['Q107655869'],[],cultural exclusive
+Q15761,[],[],[],[],['Q45594'],[],cultural representative
+Q1503157,[],['Q142'],['Q238723'],[],"['Q200764', 'Q117599782', 'Q570116']",[],cultural representative
+Q7372,[],[],[],[],['Q16521'],[],cultural agnostic
+Q211367,[],[],[],[],"['Q214609', 'Q206615']",[],cultural agnostic
+Q2278256,[],['Q145'],[],[],['Q375336'],[],cultural exclusive
+Q231302,[],[],[],[],"['Q28468127', 'Q103112098']",[],cultural representative
+Q23589,[],['Q30'],[],[],"['Q721830', 'Q5009242', 'Q1762059', 'Q561068', 'Q11396960']",[],cultural exclusive
+Q340709,[],[],[],[],['Q371174'],[],cultural agnostic
+Q737377,[],"['Q159', 'Q34266', 'Q15180']",['Q271014'],[],"['Q1021645', 'Q200764', 'Q2319498']",['Q23668083'],cultural representative
+Q139932,[],[],[],[],['Q7748'],[],cultural exclusive
+Q124619225,[],[],[],[],['Q371174'],[],cultural representative
+Q15783,[],[],[],[],['Q109852002'],[],cultural agnostic
+Q1661080,[],[],[],[],[],[],cultural agnostic
+Q17084639,[],[],[],[],['Q28972120'],[],cultural agnostic
+Q7554349,[],[],[],[],[],[],cultural agnostic
+Q178406,[],[],[],[],['Q107357104'],[],cultural agnostic
+Q359293,[],['Q30'],['Q1207'],[],['Q740752'],[],cultural exclusive
+Q884,[],['Q884'],[],['Q495348'],"['Q3624078', 'Q1520223', 'Q6256', 'Q327333']",[],cultural representative
+Q236913,['Q145'],[],[],[],['Q188451'],[],cultural representative
+Q27185,[],['Q213'],"['Q748211', 'Q973974']",[],"['Q1007870', 'Q24699794']",['Q385405'],cultural exclusive
+Q6539,[],['Q142'],[],[],['Q13418847'],[],cultural representative
+Q182361,[],['Q17'],[],[],['Q1107679'],[],cultural exclusive
+Q465501,[],[],[],[],['Q4220920'],[],cultural agnostic
+Q1140845,[],[],[],[],['Q1428660'],[],cultural agnostic
+Q9603,[],[],[],[],"['Q1826286', 'Q24034076', 'Q32090']",[],cultural representative
+Q1365,['Q38'],[],[],[],['Q11424'],[],cultural representative
+Q11254,[],[],[],[],"['Q10675206', 'Q169336']",[],cultural agnostic
+Q2465121,[],"['Q15180', 'Q863']",[],[],"['Q375336', 'Q1415395']",[],cultural exclusive
+Q7679703,[],[],[],[],['Q108874'],[],cultural exclusive
+Q1568338,[],[],[],[],"['Q28640', 'Q4164871']",[],cultural agnostic
+Q7696211,[],[],[],[],[],[],cultural agnostic
+Q674413,[],[],[],[],['Q81647906'],[],cultural agnostic
+Q175122,[],[],[],[],[],[],cultural agnostic
+Q595,['Q142'],[],[],[],['Q11424'],[],cultural representative
+Q270844,[],['Q878'],['Q613'],[],"['Q1402592', 'Q811979']",[],cultural representative
+Q1074069,[],[],[],[],['Q483247'],[],cultural agnostic
+Q187120,[],[],[],[],[],[],cultural agnostic
+Q3267562,[],[],[],[],['Q5'],[],cultural representative
+Q685935,[],[],[],[],['Q21114848'],[],cultural agnostic
+Q184781,[],[],[],[],['Q3516833'],[],cultural agnostic
+Q235858,[],[],[],[],['Q188451'],[],cultural agnostic
+Q870,[],[],[],[],['Q334166'],[],cultural agnostic
+Q28543,[],['Q28'],[],[],['Q98374631'],[],cultural agnostic
+Q479716,[],[],[],[],[],[],cultural agnostic
+Q13178,[],[],[],[],"['Q16521', 'Q55983715', 'Q2095']",[],cultural agnostic
+Q194363,[],[],[],[],['Q5'],[],cultural representative
+Q49024,[],['Q38'],[],[],['Q220505'],[],cultural representative
+Q8072,[],[],[],[],[],[],cultural agnostic
+Q246,[],['Q183'],[],[],"['Q10429667', 'Q786820', 'Q658255']",[],cultural representative
+Q177764,[],[],[],[],[],[],cultural representative
+Q375,['Q142'],[],[],[],['Q746549'],[],cultural representative
+Q59183,[],"['Q43287', 'Q153015']",[],[],"['Q786820', 'Q6881511', 'Q15081030']",[],cultural exclusive
+Q911871,[],[],[],[],['Q106859689'],[],cultural agnostic
+Q1552567,[],[],[],[],['Q385378'],[],cultural agnostic
+Q36180,[],[],[],[],"['Q28640', 'Q12737077']",[],cultural agnostic
+Q156316,[],['Q183'],['Q2999'],[],"['Q16823155', 'Q33506', 'Q16560']","['Q43113623', 'Q17297633']",cultural representative
+Q56911,[],"['Q9903', 'Q8733']",[],[],['Q4164871'],[],cultural exclusive
+Q377,[],[],[],[],['Q5'],[],cultural representative
+Q615394,[],[],[],[],['Q11460'],[],cultural exclusive
