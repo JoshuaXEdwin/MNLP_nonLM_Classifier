@@ -106,13 +106,3 @@ pip install -r requirements.txt
 ## Model Training
 
 The logistic regression fallback was trained using `train_enriched_labeled.csv`. The model file (`tfidf_fallback_model.pkl`) is available under `/models`. The training script is not included here for brevity but follows a simple TF-IDF + LogisticRegression pipeline with `max_iter=1000`.
-
-
-
----
-
-## Contact
-
-For questions, reach out to:
-
-* Joshua Edwin — [vijayanrajendraedwin.1995743@studenti.uniroma1.it](mailto:vijayanrajendraedwin.1995743@studenti.uniroma1.it)
